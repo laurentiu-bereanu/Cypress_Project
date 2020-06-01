@@ -1,0 +1,364 @@
+{
+	"id": "e719b9c5-0036-4d31-9e16-ad05c03e1edf",
+	"name": "RS9 - Candidates",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "http://52.233.158.155:8080/api/v1",
+			"enabled": true
+		},
+		{
+			"key": "contactStatusValue",
+			"value": "RUXId",
+			"enabled": true
+		},
+		{
+			"key": "cvSourceValue",
+			"value": "JWfvy",
+			"enabled": true
+		},
+		{
+			"key": "roleValue",
+			"value": "TXBDt",
+			"enabled": true
+		},
+		{
+			"key": "seniorityValue",
+			"value": "BgrdW",
+			"enabled": true
+		},
+		{
+			"key": "candidateParentId",
+			"value": "9213a23d-4d50-4b0c-aa0b-db6b6357a542",
+			"enabled": true
+		},
+		{
+			"key": "seniorityParentId",
+			"value": "49a35189-8a6a-4358-a31e-5722bed2945c",
+			"enabled": true
+		},
+		{
+			"key": "senioritySettingId",
+			"value": "ef1ee0ed-3b54-8d69-0384-ad22517bdce3",
+			"enabled": true
+		},
+		{
+			"key": "cvSourceSettingId",
+			"value": "e3104e77-5ac6-43d5-65e2-617d983ee8e3",
+			"enabled": true
+		},
+		{
+			"key": "contactStatusSettingId",
+			"value": "706145ef-2986-4789-b91b-d876ea19dbf1",
+			"enabled": true
+		},
+		{
+			"key": "roleSettingId",
+			"value": "ea1a1ae0-5031-ce54-238a-947845ce14e7",
+			"enabled": true
+		},
+		{
+			"key": "candidateRecruiter",
+			"value": "Iancu Cocis",
+			"enabled": true
+		},
+		{
+			"key": "candidateReferral",
+			"value": "Dana Tanase",
+			"enabled": true
+		},
+		{
+			"key": "candidateCity",
+			"value": "VMepM",
+			"enabled": true
+		},
+		{
+			"key": "candidateCurrentCompany",
+			"value": "HYgSoKN",
+			"enabled": true
+		},
+		{
+			"key": "candidateCurrentJob",
+			"value": "ffSujUo",
+			"enabled": true
+		},
+		{
+			"key": "candidateEmail",
+			"value": "GQC1OUVB0T@testdomaincom",
+			"enabled": true
+		},
+		{
+			"key": "candidateExperience",
+			"value": 99,
+			"enabled": true
+		},
+		{
+			"key": "candidateName",
+			"value": 691190,
+			"enabled": true
+		},
+		{
+			"key": "candidatePhone",
+			"value": 7296,
+			"enabled": true
+		},
+		{
+			"key": "candidateSkills",
+			"value": "TYJJirk",
+			"enabled": true
+		},
+		{
+			"key": "candidateId",
+			"value": "9188a7e3-35c8-49e9-8476-e17d94286741",
+			"enabled": true
+		},
+		{
+			"key": "candidateLastViewDateInitial",
+			"value": "2020-05-17T18:44:43.6369488+00:00",
+			"enabled": true
+		},
+		{
+			"key": "jobDeliveryDirector",
+			"value": "Ciprian Nicolae",
+			"enabled": true
+		},
+		{
+			"key": "jobHiringManager",
+			"value": "Gabriela Blaga",
+			"enabled": true
+		},
+		{
+			"key": "projectAbbreviation",
+			"value": "Mw8",
+			"enabled": true
+		},
+		{
+			"key": "projectName",
+			"value": "2M6CNR3OgI",
+			"enabled": true
+		},
+		{
+			"key": "projectID",
+			"value": "d2a9056d-a0d1-4a1a-8fd9-f74747d5d8db",
+			"enabled": true
+		},
+		{
+			"key": "jobParentId",
+			"value": "91b3ceb8-0284-4f53-b120-124e75922580",
+			"enabled": true
+		},
+		{
+			"key": "jobDescription",
+			"value": "fbuxgEdJFZohJeLlJymlOipMS",
+			"enabled": true
+		},
+		{
+			"key": "jobTitle",
+			"value": "IvBTd",
+			"enabled": true
+		},
+		{
+			"key": "jobCode",
+			"value": "OIW-44",
+			"enabled": true
+		},
+		{
+			"key": "jobStatusValue",
+			"value": "IODYx",
+			"enabled": true
+		},
+		{
+			"key": "jobStatusSettingId",
+			"value": "8e4c5da1-34cc-47ed-8041-ed4465118553",
+			"enabled": true
+		},
+		{
+			"key": "jobCreator",
+			"value": "JoSTk",
+			"enabled": true
+		},
+		{
+			"key": "jobPriority",
+			"value": 2,
+			"enabled": true
+		},
+		{
+			"key": "jobTypeValue",
+			"value": "ieCxr",
+			"enabled": true
+		},
+		{
+			"key": "jobTypeSettingId",
+			"value": "91bb1d8d-f77e-4988-bea8-696952d4039f",
+			"enabled": true
+		},
+		{
+			"key": "jobCategoryParentId",
+			"value": "91b3ceb8-0284-4f53-b120-124e75922580",
+			"enabled": true
+		},
+		{
+			"key": "jobTypeParentId",
+			"value": "49681a4e-7c64-4ef9-b109-c3ac3741967d",
+			"enabled": true
+		},
+		{
+			"key": "jobComments",
+			"value": "qfTRniGB",
+			"enabled": true
+		},
+		{
+			"key": "jobRequirements",
+			"value": "pZrkWsibeB",
+			"enabled": true
+		},
+		{
+			"key": "jobId",
+			"value": "d34934a5-8bc0-d057-eea5-decec21d8643",
+			"enabled": true
+		},
+		{
+			"key": "candidateCityNew",
+			"value": "pOCJK",
+			"enabled": true
+		},
+		{
+			"key": "candidateCurrentCompanyNew",
+			"value": "yBGJXUd",
+			"enabled": true
+		},
+		{
+			"key": "candidateCurrentJobNew",
+			"value": "YbMscwk",
+			"enabled": true
+		},
+		{
+			"key": "candidateEmailNew",
+			"value": "YWrLB0CrIR@testdomain.com",
+			"enabled": true
+		},
+		{
+			"key": "candidateExperienceNew",
+			"value": 91,
+			"enabled": true
+		},
+		{
+			"key": "candidateNameNew",
+			"value": "tLQdJqaBHK",
+			"enabled": true
+		},
+		{
+			"key": "candidatePhoneNew",
+			"value": 4482446476,
+			"enabled": true
+		},
+		{
+			"key": "candidateSkillsNew",
+			"value": "DKkfF, JCqRT, 37rtd, M8mi8, BBdnS, ru2bU, xz4fP, RpkDk",
+			"enabled": true
+		},
+		{
+			"key": "candidateLowerExperience",
+			"value": 24,
+			"enabled": true
+		},
+		{
+			"key": "candidateHigherExperience",
+			"value": 22,
+			"enabled": true
+		},
+		{
+			"key": "randomId",
+			"value": "3b20c9e8-a69b-0878-dca3-39dfa5ffcb78",
+			"enabled": true
+		},
+		{
+			"key": "candidateNameErrorMessage",
+			"value": "Candidate name can contain only letters.",
+			"enabled": true
+		},
+		{
+			"key": "candidateNameEmailMessage",
+			"value": "Email' is not a valid email address.",
+			"enabled": true
+		},
+		{
+			"key": "candidateEmailErrorMessage",
+			"value": "'Email' is not a valid email address.",
+			"enabled": true
+		},
+		{
+			"key": "candidateRecruiterErrorMessage",
+			"value": "'Recruiter' must not be empty.",
+			"enabled": true
+		},
+		{
+			"key": "candidateFirstContactDate",
+			"value": "2020-05-17T18:44:42.608Z",
+			"enabled": true
+		},
+		{
+			"key": "candidateLastContactDate",
+			"value": "2020-05-17T18:44:42.608Z",
+			"enabled": true
+		},
+		{
+			"key": "currentDate",
+			"value": "2020-05-17T18:44:44.713Z",
+			"enabled": true
+		},
+		{
+			"key": "candidateFutureContactDate",
+			"value": "2021-10-18T20:42:11.848Z",
+			"enabled": true
+		},
+		{
+			"key": "projectAbbreviationNew",
+			"value": "7sC",
+			"enabled": true
+		},
+		{
+			"key": "projectNameNew",
+			"value": "be2CFFvG0T",
+			"enabled": true
+		},
+		{
+			"key": "candidateFirstContactDateNew",
+			"value": "2020-05-17T18:44:44.713Z",
+			"enabled": true
+		},
+		{
+			"key": "candidateFutureContactDateNew",
+			"value": "2021-08-30T10:58:10.701Z",
+			"enabled": true
+		},
+		{
+			"key": "candidateLastContactDateNew",
+			"value": "2020-05-17T18:44:44.713Z",
+			"enabled": true
+		},
+		{
+			"key": "candidateLastViewDateEdited",
+			"value": "2020-05-17T18:44:45.789407",
+			"enabled": true
+		},
+		{
+			"key": "contactStatusId",
+			"value": "b1c12a15-a185-c013-fae1-1acd5ebe2631",
+			"enabled": true
+		},
+		{
+			"key": "lastViewDate",
+			"value": "2020-05-09T17:13:22.079Z",
+			"enabled": true
+		},
+		{
+			"key": "currentDate2",
+			"value": "2020-05-15T17:43:49.579Z",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-05-17T18:45:09.377Z",
+	"_postman_exported_using": "Postman/7.24.0"
+}
