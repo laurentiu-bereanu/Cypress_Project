@@ -152,6 +152,7 @@ const badFiles = [
   },
 ];
 describe('Candidates page tests', () => {
+  //Merge ->
   describe('Create Candidate Modal actions tests', () => {
     beforeEach(() => {
       loginPage.login(loginPage.testUsername);
@@ -177,6 +178,7 @@ describe('Candidates page tests', () => {
       createCandidatePage.checkCreateCandidateModalIsClosed();
     });
   });
+  //Merge ->
   describe('Create Candidate Input tests', () => {
     beforeEach(() => {
       loginPage.login(loginPage.testUsername);
@@ -224,6 +226,7 @@ describe('Candidates page tests', () => {
       });
     });
   });
+  //Merge ->
   describe('"Create Candidate" Page Inputs Error Messages Tests', () => {
     beforeEach(() => {
       loginPage.login(loginPage.testUsername);
@@ -341,6 +344,7 @@ describe('Candidates page tests', () => {
       );
     });
   });
+  //Merge ->
   describe('"Create Candidate" Upload a file Tests', () => {
     beforeEach(() => {
       loginPage.login(loginPage.testUsername);
@@ -421,8 +425,8 @@ describe('Candidates page tests', () => {
       });
     });
   });
-
-  describe("'Create Candidate' tests", () => {
+  //Merge ->
+  describe.skip("'Create Candidate' tests", () => {
     beforeEach(() => {
       loginPage.login(loginPage.testUsername);
       //Generate Data for Tests
@@ -722,7 +726,7 @@ describe('Candidates page tests', () => {
       });
     });
   });
-  describe('Search a Candidate Tests', () => {
+  describe.skip('Search a Candidate Tests', () => {
     beforeEach(() => {
       loginPage.login(loginPage.testUsername);
       createCandidatePage.visitCandidatesPage();
@@ -818,7 +822,7 @@ describe('Candidates page tests', () => {
           });
       });
       //Aici puteam sa fac test pentru orice field din Search, numai ca din lipsa timpului m-am rezumat doar la un camp :(
-      it.only('Check if Searching by Name displays good results with Request validation', () => {
+      it('Check if Searching by Name displays good results with Request validation', () => {
         search.name = candidate.name;
         createCandidatePage.addCandidate(candidate);
         createCandidatePage.clickAdvancedSearchButton();
@@ -830,6 +834,7 @@ describe('Candidates page tests', () => {
       });
     });
   });
+  //Test describe -Doesn't count
   describe.skip('test describe', () => {
     beforeEach(() => {
       loginPage.login(loginPage.testUsername);
