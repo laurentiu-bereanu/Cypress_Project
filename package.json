@@ -2,11 +2,10 @@
   "scripts": {
     "cypress": "cypress open"
   },
-  "dependencies": {
-    "cypress": "^4.12.1"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "cypress-file-upload": "^4.0.6",
+    "cypress": "^5.6.0",
+    "cypress-file-upload": "^4.1.1",
     "newman-reporter-html": "^1.0.5"
   }
 }

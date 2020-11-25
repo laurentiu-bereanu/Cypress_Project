@@ -83,7 +83,7 @@ class createCandidate {
   recruiterHeader = 'Recruiter';
   futureContactDateHeader = 'Future Contact Date';
   //Test Data
-  seniorityValue = 'Test';
+  seniorityValue = 'Test50';
   seniorityNewValue = 'NewTest';
   cvSourceValue = 'Cvsource';
   cvSourceNewValue = 'Newcvsource';

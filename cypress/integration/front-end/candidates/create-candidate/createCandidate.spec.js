@@ -426,7 +426,7 @@ describe('Candidates page tests', () => {
     });
   });
   //Merge ->
-  describe.skip("'Create Candidate' tests", () => {
+  describe.only("'Create Candidate' tests", () => {
     beforeEach(() => {
       loginPage.login(loginPage.testUsername);
       //Generate Data for Tests
