@@ -1,9 +1,9 @@
 <h3 align="left">FiiPractic - Cypress and Postman Project </h3>
 A series of tests writed in Cypress and Postman for a Training(FiiPractic Iasi with the help of Levi9) 
 After four five weeks of traning were we learned the basics and some advanced stuff using Cypress and Postman we had to do for the final project a series of tests for a websited offered by them. The tests were just for a sub-page from the web-site.
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://www.linkedin.com/in/laurentiu-bereanu-07647672/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png" alt="linkeding" width="40" height="40"/> </a>
 <p align="left">
 </p>
 
