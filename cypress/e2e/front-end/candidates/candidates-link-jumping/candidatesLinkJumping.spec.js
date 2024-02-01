@@ -1,6 +1,6 @@
-import candidates from '../../../../support/pages/Candidates';
-import loginPage from '../../../../support/pages/login';
-import createCandidatePage from '../../../../support/pages/createCandidate';
+import candidates from '../../../../support/pages/candidates.js';
+import loginPage from '../../../../support/pages/login.js';
+import createCandidatePage from '../../../../support/pages/createCandidate.js';
 
 describe('Candidates link-jumping page tests', () => {
   beforeEach(() => {

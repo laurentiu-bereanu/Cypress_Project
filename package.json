@@ -3,8 +3,6 @@
     "cypress": "cypress open"
   },
   "devDependencies": {
-    "cypress": "^13.6.4",
-    "cypress-file-upload": "^4.1.1",
-    "newman-reporter-html": "^1.0.5"
+    "cypress": "^13.6.4"
   }
 }
